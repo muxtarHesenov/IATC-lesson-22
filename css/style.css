@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    background-image: url("https://blog.gezgin.gov.tr/wp-content/uploads/2019/05/RST_Istanbul_20190405_4k.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#demo{
+    width: 150px;
+    height: 150px;
+    float: left;
+    position: absolute;
+    transition: 0.5s;
+    transform: rotate(270deg);
+}
